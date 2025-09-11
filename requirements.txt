@@ -1,0 +1,68 @@
+# Core utilities
+requests
+urllib3
+httpx
+tqdm
+python-dotenv
+
+# Telegram & Bots
+pyTelegramBotAPI
+aiogram
+telethon
+
+# Web frameworks
+flask
+fastapi
+django
+uvicorn
+gunicorn
+
+# HTML / Parsing
+beautifulsoup4
+lxml
+html5lib
+
+# Databases
+sqlalchemy
+pymongo
+psycopg2-binary
+mysql-connector-python
+
+# Data Science
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+
+# Machine Learning / AI
+tensorflow
+torch
+torchvision
+transformers
+keras
+xgboost
+lightgbm
+
+# Image / Media
+pillow
+opencv-python
+moviepy
+
+# Security / Encryption
+cryptography
+pyjwt
+bcrypt
+
+# Async & Networking
+aiohttp
+websockets
+paramiko
+
+# File formats
+openpyxl
+python-docx
+python-pptx
+reportlab
