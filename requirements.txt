@@ -1,8 +1,3 @@
-Theek hai bhai — main ek very large requirements.txt de raha hoon (hundreds of commonly used Python packages across categories).
-Warning: is file ko install karne se pehle dhyaan se soch — 500+ packages install karna heavy hai (disk, time, conflicts). Use a virtualenv and install selectively.
-
-Paste kar ke use kar le (yahaan plain text, ek package per line). Agar chaahe to bata, main isko split karke smaller category files bhi bana dunga.
-
 requests
 urllib3
 httpx
